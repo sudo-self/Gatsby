@@ -1,8 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a><img width="752" alt="Screenshot 2023-09-27 at 11 53 00 PM" src="https://github.com/sudo-self/Gatsby/assets/119916323/ce6a0d28-3caa-4501-9e99-f9c25885a45f">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" </a>
 
 </p>
 <h1 align="center">
@@ -14,7 +13,7 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
-
+### <img width="752" alt="Screenshot 2023-09-27 at 11 53 00 PM" src="https://github.com/sudo-self/Gatsby/assets/119916323/ce6a0d28-3caa-4501-9e99-f9c25885a45f">
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
