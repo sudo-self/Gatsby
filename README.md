@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
+  </a><img width="752" alt="Screenshot 2023-09-27 at 11 53 00 PM" src="https://github.com/sudo-self/Gatsby/assets/119916323/ce6a0d28-3caa-4501-9e99-f9c25885a45f">
+
 </p>
 <h1 align="center">
   Gatsby's blog starter
